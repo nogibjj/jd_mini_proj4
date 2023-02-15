@@ -1,6 +1,3 @@
-# rust-new-project-template
-A good starting point for a new Rust project
+# Mini Project 4 
 
-## References
-
-* [rust-cli-template](https://github.com/kbknapp/rust-cli-template)
+This week, I focused on learning how to use the `actix` crate and its functions. Based on the path provided by the user, the service will either print a welcome message, return a random top swimmer, or return the version of cargo that is being used. I wanted to use this as a starting point for when I work on my second individual project. 
